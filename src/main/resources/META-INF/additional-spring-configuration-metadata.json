@@ -1,0 +1,14 @@
+{
+	"properties": [
+		{
+			"name": "jwt.secret",
+			"type": "java.lang.String",
+			"description": "Description for jwt.secret."
+		},
+		{
+			"name": "file.upload-dir",
+			"type": "java.lang.String",
+			"description": "Description for file.upload-dir."
+		}
+	]
+}
